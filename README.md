@@ -11,3 +11,6 @@ Part 1: Install Python IDE (Visual Studio Code), Test Tool (Pytest), and setup G
 
 Part 2: Run Hello World
 
+## Week 1
+...
+
