@@ -1,0 +1,2 @@
+class InvalidDim(Exception):
+    pass
