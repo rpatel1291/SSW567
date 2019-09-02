@@ -12,5 +12,7 @@ Part 1: Install Python IDE (Visual Studio Code), Test Tool (Pytest), and setup G
 Part 2: Run Hello World
 
 ## Week 1
-...
+### Date - 9/1/2019
+#### Summary
+Create a function "classify_triangle()" that takes in three parameters. Returns string specfies triangle type. Use test platform and write test cases your implementation.
 
