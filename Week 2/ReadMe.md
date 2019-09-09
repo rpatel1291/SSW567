@@ -21,4 +21,4 @@ Part 2:
 
 ### Assignment 2b
 
-[![build status of master](https://travis-ci.org/rpatel1291/SSW567/Week%202.svg?branch=master)](https://travis-ci.org/tsmith567/Triangle567)
+[![build status of master](https://travis-ci.org/rpatel1291/SSW567/Week%202.svg?branch=master)](https://travis-ci.org/rpatel1291/SSW567/Week%202)
