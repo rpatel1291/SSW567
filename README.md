@@ -16,3 +16,7 @@ Part 2: Run Hello World
 #### Summary
 Create a function "classify_triangle()" that takes in three parameters. Returns string specfies triangle type. Use test platform and write test cases your implementation.
 
+## Week 2
+### Date - 9/8/2019
+#### Summary
+Testing of a legacy program and Continuous Integration
